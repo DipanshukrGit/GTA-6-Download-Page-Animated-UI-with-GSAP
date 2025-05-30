@@ -18,7 +18,7 @@ This project was created **for learning and practice purposes only**. It is not 
 - 🎨 Tailwind CSS
 - 🌀 GSAP (GreenSock Animation Platform)
 
-----
+---
 
 ## ✨ Features
 
