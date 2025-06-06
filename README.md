@@ -4,7 +4,7 @@ A stylish, animated single-page **GTA 6-themed landing site** built using **Reac
 
 🛠️ *Responsiveness is still a work in progress.*
 
-----
+---
 
 ## 📚 Purpose
 
